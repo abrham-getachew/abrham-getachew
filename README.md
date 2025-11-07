@@ -40,7 +40,7 @@
 
 ## Stats 📊
 
-![Abrham’s Stats](https://github-readme-stats.vercel.app/api?username=abrham-getachew-tech&show_icons=true)
+![Abrham’s Stats](https://github-readme-stats.vercel.app/api?username=abrham-getachew&show_icons=true)
 ![Abrham's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abcoder-tech&theme=blue-green)
 
 ## Contact 📫
