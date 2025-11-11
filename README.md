@@ -8,7 +8,7 @@
 - 🚀 I’m currently available for new opportunities  
 - 👯 I’m looking to collaborate on **Software Development Projects**  
 - 👨‍💻 My projects are available [@abrham-getachew](https://abrham-portfolio-mu.vercel.app/)  
-- ⚡ I like 👨‍💻 : Coding | 🎮 : Gaming | ⛹️‍♂️: Basketball | 🏊 : Swimming  
+- ⚡ I like 👨‍💻 : Coding | 🎮 : Gaming | ⚽🏃: Football | 🏊 : Swimming  
 
 ## Technologies 💻
 
